@@ -1,3 +1,10 @@
+TASK: Write a solution for Katas 1-16 using Functions
+
+EXT:
+- Can you optimise you solution further using TDD? (Red-Green-Refactor)
+- Refactor solutions from Functions into Classes
+
+
 01. How do you find the missing numbers in a given integer array?
 02. How do you find the duplicate number on a given integer array?
 03. How do you find duplicate numbers in an array if it contains multiple duplicates?
