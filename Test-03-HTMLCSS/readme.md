@@ -19,3 +19,7 @@ Your tasks to complete are:
 Please complete these changes using a pull request so that we can see exactly what changes you have made to the code. 
 
 Thanks
+
+## Solution
+
+Discuss potential answers/solutions with coaches and fellow students...
