@@ -1,4 +1,4 @@
-## CleverTouch Technical Test
+## Technical Test
 
 Firstly, thank you for attending your first interview with us. I hope you found it an enjoyable experience, and are looking forward to showing us what you can do in this technical challenge. 
 
@@ -18,6 +18,8 @@ Your tasks to complete are:
 
 Please complete these changes using a pull request so that we can see exactly what changes you have made to the code. 
 
-Thanks,
+Thanks
 
-CleverTouch
+## Solution
+
+Discuss potential answers/solutions with coaches and fellow students...
