@@ -18,7 +18,7 @@ getRange(0, 500).forEach((number) => {
 
 // math.js
 
-math.js/**  
+/*
  * Checks to see if a number is a prime number  
  *   
  * @param {number} num - Number we are checking to see if it's prime  
@@ -29,7 +29,9 @@ export const isPrime = (num) => {
         if (num % i === 0) return false;  
     }      
     return num > 1;  
-};/**  
+};
+
+/**  
  * Checks to see if a number can be divided by another number  
  *   
  * @param {number} numerator - Number we are checking it's divisability**  
@@ -38,12 +40,14 @@ export const isPrime = (num) => {
  */  
 export const isDivisibleBy = (numerator, denominator) => {  
     return numerator % denominator == 0;  
-};/**  
+};
+
+/**  
  * Returns an array of all numbers between a min & max  
  *   
  * @returns {number[]}  
  */  
-const getRange = (min, max) => {  
+export const getRange = (min, max) => {  
     const numList = [];  
     for (let index = min; index < max; index++) {  
       numList.push(index);  
