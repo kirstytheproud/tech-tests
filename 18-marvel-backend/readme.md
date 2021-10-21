@@ -76,3 +76,8 @@ Also write a markdown README.md with instructions on how to:
 
 - Install any dependencies, files or environment variables your code requires
 - How to build and run your server
+
+## EXCLUDE FROM TEST
+
+Partially complete tech test available here..
+https://github.com/nology-tech/marvel-api/tree/main/src/main/java/com/nology/charactersAPI
