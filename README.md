@@ -10,3 +10,10 @@ The first folder "00 Javascript Kata" is a collection of JS problems to solve us
 git clone https://github.com/nology-tech/tech-tests.git
 ```
 
+### Tech Test Topics to be clear on
+
+- TDD - What is it? How have you used it? Why is it relevant?
+- GIT - Why is it useful in a project? What is git flow? What benefits does gitflow/branching provide?
+
+... but overall, let them know your thought process. Break down problems with them if you're stuck/unsure. Don't go silent
+
