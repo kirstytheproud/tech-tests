@@ -1,7 +1,7 @@
 # Brief
 
 For this technical test, we would like you to build a static content page based on the design attached.
-The purpose of this test is not so much about the finished product but more so how you approach the test and overcome any challenges you may face. If you feel overwhelmed by any elements of the task feel free to email me at anna.green@smartebusiness.co.uk. I will do my best to point you in the right direction.
+The purpose of this test is not so much about the finished product but more so how you approach the test and overcome any challenges you may face. If you feel overwhelmed by any elements of the task feel free to email me. I will do my best to point you in the right direction.
 Good luck!
 
 ## Things it must have:
