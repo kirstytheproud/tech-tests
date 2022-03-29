@@ -8,13 +8,13 @@ Classes you need to build.
 - Account: We will have two types of accounts in the system, one will be a general member, and the other will be a librarian.
 
 ## Challenges & Questions going forward
-How will a library issue book items to accounts/people?
-How will a library stop issuing books once all?
-How can we store information about authors who make many books?
-How will the library keep track of past, present, and future book reservations?
-How will a library update an person's address when they move?
-(Hard) How will a library fine a person for late returns?
-(Hard) What about a library which needs to lend more than just books? What changes would you make to the above code?
+- How will a library issue book items to accounts/people?
+- How will a library stop issuing books once all?
+- How can we store information about authors who make many books?
+- How will the library keep track of past, present, and future book reservations?
+- How will a library update an person's address when they move?
+- (Hard) How will a library fine a person for late returns?
+- (Hard) What about a library which needs to lend more than just books? What changes would you make to the above code?
 
 ### Full Challenge
 https://www.educative.io/courses/grokking-the-object-oriented-design-interview/RMlM3NgjAyR
