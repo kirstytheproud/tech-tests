@@ -18,6 +18,26 @@ Classes you need to build.
 
 ### Starter Code?
 ``` java
+public class Main {
+
+    public static void main(String[] args) {
+        // 1. Create a new library for us to interact with
+	    
+	    // 2. Populate some available books
+        
+        // 3. Populate some members and a librarian
+        
+        // 4. (Scanner) Get an email, find a member matching this email
+        
+        // 5. (Scanner) Get a book name, find a book matching this name
+        
+        // 6. (Scanner) Confirm with the user that they would like to loan a book. Create a loan which moves 
+        //    a book from available to loaned
+        
+        // 7. Great! Our first prototype has been built. What design problems have we introduced? How can we make this better?
+    }
+}
+
 public class Library {
 
     private ArrayList<Person> librarians;
