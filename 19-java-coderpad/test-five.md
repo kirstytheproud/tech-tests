@@ -9,7 +9,7 @@ Classes you need to build.
 
 ## Challenges & Questions going forward
 - How will a library issue book items to accounts/people?
-- How will a library stop issuing books once all?
+- How will a library stop issuing books when their stock has run out?
 - How can we store information about authors who make many books?
 - How will the library keep track of past, present, and future book reservations?
 - How will a library update an person's address when they move?
