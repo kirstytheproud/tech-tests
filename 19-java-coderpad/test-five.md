@@ -23,7 +23,7 @@ public class Main {
     public static void main(String[] args) {
         // 1. Create a new library for us to interact with
 	    
-	    // 2. Populate some available books
+        // 2. Populate some available books
         
         // 3. Populate some members and a librarian
         
