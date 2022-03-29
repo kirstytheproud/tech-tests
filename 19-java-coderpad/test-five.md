@@ -16,5 +16,28 @@ Classes you need to build.
 - (Hard) How will a library fine a person for late returns?
 - (Hard) What about a library which needs to lend more than just books? What changes would you make to the above code?
 
+### Starter Code?
+``` java
+public class Library {
+
+    private ArrayList<Person> librarians;
+    private ArrayList<Person> members;
+    private ArrayList<Book> availableBooks;
+    private ArrayList<Book> loanedBooks;
+
+    public boolean isAvailable(Book book) {
+        return false;
+    }
+
+    public void returnBook(Loan loan) {
+        
+    }
+
+    public void checkoutBook(Loan loan) {
+
+    }
+}
+```
+
 ### Full Challenge
 https://www.educative.io/courses/grokking-the-object-oriented-design-interview/RMlM3NgjAyR
